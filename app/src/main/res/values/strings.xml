@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Text Scanner</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="grab_text">Grab Text</string>
+    <string name="capture_or_open_image_to_perform_ocr">Capture or open image to perform OCR</string>
+</resources>
