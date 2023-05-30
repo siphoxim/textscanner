@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+//
     private void checkPermissions() {
         if (ContextCompat.checkSelfPermission(MainActivity.this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
             ActivityCompat.requestPermissions(MainActivity.this, new String[]{
